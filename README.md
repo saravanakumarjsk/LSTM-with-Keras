@@ -1,2 +1,3 @@
 # LSTM-with-Keras
-This repo will contain all the python files and notes regarding stock price prediction using RNN LSTM
+Contains code for multi step time sereis forecasting using keras.
+
